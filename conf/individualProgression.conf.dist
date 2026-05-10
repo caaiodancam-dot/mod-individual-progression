@@ -27,7 +27,7 @@ IndividualProgression.Enable = 1
 #        Default:     1 - Enabled
 #                     0 - Disabled
 #
-IndividualProgression.EnforceGroupRules = 1
+IndividualProgression.EnforceGroupRules = 0
 
 # IndividualProgression.VanillaPowerAdjustment
 #
@@ -81,7 +81,7 @@ IndividualProgression.TBCHealingAdjustment = 1
 #        Default:     1 - Enabled
 #                     0 - Disabled
 #
-IndividualProgression.QuestXPFix = 1
+IndividualProgression.QuestXPFix = 0
 
 # IndividualProgression.RequireNaxxStrathEntrance
 #
@@ -115,7 +115,7 @@ IndividualProgression.doableNaxx40Bosses = 0
 #        Default:     1 - Enabled (requires dousing)
 #                     0 - Disabled (automatic, handled when bosses are defeated)
 #
-IndividualProgression.MoltenCore.ManualRuneHandling = 1
+IndividualProgression.MoltenCore.ManualRuneHandling = 0
 
 # IndividualProgression.MoltenCore.AqualEssenceCooldownReduction
 #
@@ -124,7 +124,7 @@ IndividualProgression.MoltenCore.ManualRuneHandling = 1
 #        Default:     0 - Disabled (1 hour cooldown)
 #                     60 - (No cooldown)
 #
-IndividualProgression.MoltenCore.AqualEssenceCooldownReduction = 0
+IndividualProgression.MoltenCore.AqualEssenceCooldownReduction = 60
 
 # IndividualProgression.SerpentshrineCavern.RequireAllBosses
 #
@@ -169,7 +169,7 @@ IndividualProgression.FishingFix = 1
 #        Default:     1 - Enabled
 #                     0 - Disabled
 #
-IndividualProgression.SimpleConfigOverride = 1
+IndividualProgression.SimpleConfigOverride = 0
 
 # IndividualProgression.DisableQuestMarkers
 #
@@ -200,7 +200,7 @@ IndividualProgression.DisableRDF = 0
 #        Default:     1 - Enabled
 #                     0 - Disabled
 #
-IndividualProgression.MaxMonsterSight = 1
+IndividualProgression.MaxMonsterSight = 0
 
 # IndividualProgression.QuestMoneyAtLevelCap
 #
@@ -281,7 +281,7 @@ IndividualProgression.tbcRacesStartingProgression = 0
 #                     0 - Death Knights always available to be created
 #                     1-12, 14-18 - Set a different required progression stage to create Death Knights
 #
-IndividualProgression.DeathKnightUnlockProgression = 13
+IndividualProgression.DeathKnightUnlockProgression = 0
 
 # IndividualProgression.DeathKnightStartingProgression
 #
@@ -290,7 +290,7 @@ IndividualProgression.DeathKnightUnlockProgression = 13
 #        Default:     13 - Death Knights start at the beginning of WotLK
 #                     0-12, 14-18 - Set a different starting progression stage for Death Knights
 #
-IndividualProgression.DeathKnightStartingProgression = 13
+IndividualProgression.DeathKnightStartingProgression = 0
 
 # IndividualProgression.RequiredZulGurubProgression
 #
@@ -331,7 +331,7 @@ IndividualProgression.CustomProgression = ""
 #        Default:     0 - Disabled
 #                     1 - Enabled
 #
-IndividualProgression.AllowEarlyDungeonSet2 = 0
+IndividualProgression.AllowEarlyDungeonSet2 = 1
 
 # IndividualProgression.AllowEarlyScourgeBosses
 #
@@ -394,7 +394,7 @@ IndividualProgression.VanillaPvpTitlesPersistAfterVanilla = 1
 #        Default:     0 - Disabled (Default, Blizzlike)
 #                     1 - Enabled
 #
-IndividualProgression.VanillaPvpEarnTitlesAfterVanilla = 0
+IndividualProgression.VanillaPvpEarnTitlesAfterVanilla = 1
 
 # IndividualProgression.ExcludedAccountsEarnPvPTitles
 #
